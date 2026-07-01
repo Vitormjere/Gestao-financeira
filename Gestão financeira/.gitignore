@@ -1,0 +1,11 @@
+﻿# Credenciais
+.env
+
+# Build
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
