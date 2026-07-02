@@ -2,7 +2,7 @@
 
 A C# console application for personal finance management with secure authentication, income and expense tracking, category management, and financial reports.
 
-The system allows users to register and manage their transactions organized by custom categories, view detailed financial reports, and track their balance over time — all stored in a MySQL database.
+The system allows users to register and manage their transactions organized by custom categories, view detailed financial reports, and track their balance over time, all stored in a MySQL database.
 
 ## Features
 
